@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RohPandit
-- 👀 I am automotive software test development engineer with over 7 years of industry experience.
+- 👀 I am HIL-Hardware in loop Test engineer/ Software test development engineer with over 8 years of industry experience.
 - My core skillset mostly focusses on Embedded Software testing(Black box) and HIL(Hardware in loop Testing)  in different stages of V&V cycle.
 - The skillest encompasses from different Automotive industry domains ranging from infotainment, Powertrain, Electronic power steering and Transmission systems to automate next-gen mobility.
 - My software tools skillet comprises of Model development tools, Test automation tools, Measurement and calibration tools mostly from Vector and National instrument's- CANoe, CANApe, CANAlyzer, LabVIEW, TestStand, EXAM and Python.
